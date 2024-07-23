@@ -606,7 +606,7 @@ DEFAULT_DATA = {
 
 'WebCamMaxResolSelInfoText':        "WEBCAM MAX RESOLUTION:\nSelect the maximum resolution to be used by the webcam",
 'WebCamMaxResolSelMode':            '1920x1080',
-'WebCamMaxResolSelModes':           ['384x216', '640x480', '1280x720', '1920x1080'],
+'WebCamMaxResolSelModes':           ['480x360', '640x480', '1280x720', '1920x1080'],
 
 'WebCamMaxNoSelInfoText':        "WEBCAM MAX NUMBER:\nMaximum No of Webcams to be detected",
 'WebCamMaxNoSelMode':            1,

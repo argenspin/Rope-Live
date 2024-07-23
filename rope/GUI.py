@@ -872,7 +872,7 @@ class GUI(tk.Tk):
         row += row_delta
 
         #Webcam Max Resolution
-        self.widget['WebCamMaxNoSel'] = GE.TextSelection(self.layer['parameters_frame'], 'WebCamMaxNoSel', 'Max No of Webcams', 3, self.update_data, 'parameter', 'parameter', 398, 20, 1, row, 0.72)
+        self.widget['WebCamMaxNoSel'] = GE.TextSelection(self.layer['parameters_frame'], 'WebCamMaxNoSel', 'Max Webcams', 3, self.update_data, 'parameter', 'parameter', 398, 20, 1, row, 0.72)
         row += row_delta
 
         #Virtual Cam
